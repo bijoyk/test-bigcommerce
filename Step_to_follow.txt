@@ -1,0 +1,18 @@
+Steps to run the theme 
+=====================
+1) npm install
+2) stencil init
+
+What is the URL of your store's home page?
+=> https://developer22.mybigcommerce.com/
+
+What port would you like to run the server on?
+=> 3000
+
+What is your Stencil OAuth Client ID?
+=> f1a3h9f0sex1wmhbo9cffy9pli6enmg
+
+What is your Stencil OAuth Access Token?
+=> ef5ab4zi1e6z58u8tn9xhkc7soqy7t3
+
+3) stencil start
